@@ -39,7 +39,7 @@ with open(fname,'r') as f :
 print('Numbers of words: ',num_words)
 
 ```
-### OUTPUT:
+## OUTPUT:
 
 
 
