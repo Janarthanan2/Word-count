@@ -40,7 +40,11 @@ print('Numbers of words: ',num_words)
 
 ```
 ## OUTPUT:
+![Screenshot 2023-06-10 090821](https://github.com/Janarthanan2/Word-count/assets/119393515/a883f240-6a16-4756-8cef-be1392760744)
 
+![Screenshot 2023-06-10 091023](https://github.com/Janarthanan2/Word-count/assets/119393515/6176295d-ccb5-4253-a663-322d8a4a3dcf)
+
+![Screenshot 2023-06-10 090925](https://github.com/Janarthanan2/Word-count/assets/119393515/f7f5ea6c-a317-4dd5-9916-53bb68e71ac3)
 
 
 ## RESULT:
