@@ -6,19 +6,39 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+Create a file object and get file name from the user
 
-### Step 2: 
- 
-### Step 3: 
+### Step 2:
+Open the file given by the user
 
-### Step 4:  
+### Step 3:
+Using for loop acess the file
 
-### Step 5: 
+### Step 4:
+Use split funtion to separate the words
 
-### Step 6: 
+### Step 5:
+The words is then counted by len function
+
+### Step 6:
+Print the number of words
 
 ## PROGRAM:
+```
+'''
+Program to find for getting the word count from a text.
+Developed by: JANARTHANAN V K
+RegisterNumber: 212222230051
+'''
+fname = input('Enter the name :')
+num_words = 0
+with open(fname,'r') as f :
+    for line in f:
+        words=line.split()
+        num_words += len(words)
+print('Numbers of words: ',num_words)
 
+```
 ### OUTPUT:
 
 
